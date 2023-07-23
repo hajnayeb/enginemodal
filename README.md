@@ -1,4 +1,4 @@
-# Modal analysis of XU7 engine and P405 muffler in order to extract their natural frequencies and mode shapes
+# Modal analysis of XU7 engine block and P405 muffler in order to extract their natural frequencies and mode shapes
 
 **a) Engine block modal analysis:**
 
